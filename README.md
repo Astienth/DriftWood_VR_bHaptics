@@ -20,7 +20,7 @@ Dteyn: https://discord.gg/Qt7GT69Pzx </br>
 
 # <b>Installation</b></br>
 
-1) Download the zip file from [https://github.com/Astienth/IntoTheRadius2_bHaptics/releases/download/0.0.1/Into_the_Radius2_bHaptics_Provolver_0.10.3.zip](https://github.com/Astienth/IntoTheRadius2_bHaptics/releases/download/0.0.1/Into_the_Radius2_bHaptics_Provolver_0.10.3.zip)</br>
+1) Download the zip file from [https://github.com/Astienth/DriftWood_VR_bHaptics/releases/download/1.0/Drifwood_VRMod_bHaptics.zip](https://github.com/Astienth/DriftWood_VR_bHaptics/releases/download/1.0/Drifwood_VRMod_bHaptics.zip)</br>
 2) Extract its content into the game root folder, the folder containing the Driftwood.exe.</br>
 This is what your game folder should look like: </br>
 ![Capture](https://github.com/user-attachments/assets/3efb1095-5c08-4297-9d6e-a8d90bb92d2f)
