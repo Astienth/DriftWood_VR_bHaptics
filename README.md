@@ -36,7 +36,7 @@ You can access this picture in the game root folder: "VRControls.jpg"</br></br>
 # <b>Deactivate the VR mod</b></br>
 If you wanna deactivate the VR mod, you just need to rename the file <b>winhttp.dll</b> in the game root folder.</br>
 It can be named anything BUT "winhttp.dll".</br>
-"winhttp" = mod active
-"anythingelse" = mod inactive.
+"winhttp" = mod active </br>
+"anythingelse" = mod inactive. </br>
 
 ![Capture2](https://github.com/user-attachments/assets/d02235e7-6d1f-4e29-a592-7b51a47a1e5d)
