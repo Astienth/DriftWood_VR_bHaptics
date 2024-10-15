@@ -1,6 +1,7 @@
 # DriftWood_VR_bHaptics
 
-<img src="https://cdn.discordapp.com/attachments/1117875416997306490/1290389168538648656/Driftwood_09_30_2024.jpg?ex=66fcf0d0&is=66fb9f50&hm=20a5ecbc342af12c69e8d90254bcc3b781252a32ab3c6f9601d552f2d30e69cf&">
+![Driftwood_09_30_2024](https://github.com/user-attachments/assets/e226ff1f-acf7-4eb3-b250-d87dee491c65)
+
 
 # Description
 
